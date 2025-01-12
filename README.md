@@ -1,4 +1,4 @@
-# cyb3r / male - 22 / computer sci major & IT technician 
+# cyb3r / male - 22 / computer sci student & IT technician 
 * personal web: https://cyb3r3.github.io/cyb3r3.io/
 
 * gear: https://github.com/cyb3r3/gear
