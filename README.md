@@ -5,4 +5,4 @@
 
 * goodreads: https://www.goodreads.com/user/show/183807712-cyb3rrr
 # programming languages
- - C, C++, Python
+- C/C++, Python
