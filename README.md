@@ -7,5 +7,4 @@
 # programming languages & stats
 - C/C++, Python
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyb3r3&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="cyb3r3's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyb3r3&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="cyb3r3's GitHub Stats" />
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/cyb3r3/highlights) ![Github Stats](https://greptile-stats.vercel.app/api/widget/cyb3r3/stats)
