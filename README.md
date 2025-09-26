@@ -1,5 +1,5 @@
 # cyb3r / male - 22 / computer sci student & IT technician 
-* personal web: cyb3r-debian.site
+* personal web: https://cyb3r-debian.site
 
 * gear: https://github.com/cyb3r3/gear
 
