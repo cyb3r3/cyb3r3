@@ -4,6 +4,6 @@
 * gear: https://github.com/cyb3r3/gear
 
 * goodreads: https://www.goodreads.com/user/show/183807712-cyb3rrr
-# programming languages & stats
-- C/C++, Python
+# programming languages 
+- C/C++, Python, SQL, Java
 
