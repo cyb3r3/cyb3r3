@@ -7,5 +7,5 @@
 # programming languages of tatse 
 - C/C++, Python, SQL, Java
 
-- leanring about ai/ml   
+- leanring about ai/ml for fun
 
