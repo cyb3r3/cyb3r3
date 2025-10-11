@@ -7,5 +7,5 @@
 # programming languages of tatse 
 - C/C++, Python, SQL, Java
 
-- leanring about ai/ml for fun
+- learning ai/ml for fun
 
