@@ -1,6 +1,11 @@
+```
 # cyb3r / male - 22 / computer sci student @ vwcc
-* personal web: https://cyb3r-debian.site 
+- personal web: https://cyb3r-debian.site 
 # programming languages of taste 
-- C/C++, Python, SQL, Java
-- learning ai/ml for fun
-
+- C, Python, SQL, Java
+# learning
+- lua, maybe C++ (??),   
+- ai/ml for fun
+- react, TS, JS, and other frameworks 
+- algo and data structures
+ ```
