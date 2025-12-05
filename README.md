@@ -1,6 +1,7 @@
+<h2> male - 22 / computer sci student @ vwcc </h2>
+personal web: https://cyb3r-debian.site 
+
 ```
-# cyb3r / male - 22 / computer sci student @ vwcc
-- personal web: https://cyb3r-debian.site 
 # programming languages of taste 
 - C, Python, SQL, Java
 # learning
