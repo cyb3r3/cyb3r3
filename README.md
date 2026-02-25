@@ -1,5 +1,5 @@
-<h2> male - 23 / computer sci student& it/cyber sec intern @ vwcc </h2>
-personal web: https://cyb3r-debian.site 
+<h2> male - 23 / computer sci student & it/cyber sec intern @ vwcc </h2>
+personal web >https://cyb3r-debian.site 
 
 ```
 # programming languages of taste 
