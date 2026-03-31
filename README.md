@@ -6,7 +6,7 @@ personal web >https://cyb3r-debian.site
 - C, Python, SQL, Java
 # learning
 - lua, C++ 
-- ai for fun
+- ai
 - react, TS, JS, opengl, and other frameworks 
 - algo and data structures
  ```
