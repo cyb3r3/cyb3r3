@@ -1,4 +1,4 @@
-<h2> male - 23 / computer sci student & it/cyber sec intern @ vwcc </h2>
+<h2> male - 23 / computer sci student </h2>
 personal web >https://cyb3r-debian.site 
 
 <h4> programming languages of taste </h4> 
