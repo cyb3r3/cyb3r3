@@ -3,8 +3,9 @@
 
 <h3> programming languages of taste </h3> 
 - C, Python, SQL, Java
+<h3> what am i learning </h3>
+3d rendering and c++.... more to come
 
-
-<h1>meow </h1> 
+<h1></h1> 
 
 ![cat](cat.png)
