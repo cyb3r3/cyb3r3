@@ -4,7 +4,7 @@
 <h3> programming languages of taste </h3> 
 - C, Python, SQL, Java
 <h3> what am i learning </h3>
-3d rendering and c++.... more to come
+3d rendering, c++, CUDA, Pytorch /w tensor
 
 <h1></h1> 
 
